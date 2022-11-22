@@ -889,6 +889,14 @@ $size-header-pad: 4em;
 		}
 	}
 
+	.certifications {
+		.image {
+			&:before {
+				opacity: 0;
+			}
+		}
+	}
+
 /* Table */
 
 	.table-wrapper {

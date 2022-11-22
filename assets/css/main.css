@@ -1910,6 +1910,10 @@ ul.actions:not(.fixed) li .button.icon:before {
   }
 }
 
+.certifications .image:before {
+  opacity: 0;
+}
+
 /* Table */
 .table-wrapper {
   -webkit-overflow-scrolling: touch;
