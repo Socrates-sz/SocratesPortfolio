@@ -1,0 +1,20 @@
+{
+  "name": "socratesportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass ./assets/sass/main.scss ./assets/css/main.css",
+    "sass:watch": "sass ./assets/sass/main.scss ./assets/css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Socrates-sz/SocratesPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Socrates-sz/SocratesPortfolio/issues"
+  },
+  "homepage": "https://github.com/Socrates-sz/SocratesPortfolio#readme"
+}
